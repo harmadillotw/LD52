@@ -108,7 +108,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!60 &4227970236417567579
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -233,7 +233,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca7e7765c7d88d843bea46be82020724, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
   checkCounter: 0.2
 --- !u!1 &4523702209721494276
 GameObject:
@@ -306,5 +305,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca7e7765c7d88d843bea46be82020724, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
   checkCounter: 0.2
