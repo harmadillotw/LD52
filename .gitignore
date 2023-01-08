@@ -2,13 +2,15 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+LD52/[Ll]ibrary/
+LD52/[Tt]emp/
+LD52/[Oo]bj/
+LD52/[Bb]uild/
+LD52/[Bb]uilds/
+LD52/[Ll]ogs/
+LD52/[Mm]emoryCaptures/
+LD52/Assets/TextMesh/
+LD52/Assets/TextMesh Pro/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +60,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+LD52/Assets/TextMesh Pro/
